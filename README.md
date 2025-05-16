@@ -1,2 +1,2 @@
-# PartyProof
+# UseWise
 substance calculator etc
